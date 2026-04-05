@@ -43,7 +43,7 @@ A deep learning–powered web app that identifies medicinal plants from images a
 
 ```bash
 # Clone the repository
-git clone https://github.com/rishi01811/medi-frontend
+git clone https://github.com/2300030139/medi-frontend.git
 cd medi-plant-ai
 
 # Install dependencies
@@ -153,4 +153,4 @@ Medi is intended for **educational and research purposes only**. Plant identific
 
 ## 📄 License
 
-MIT © [Rishi](https://github.com/rishi01811)
+MIT © [Navya](https://github.com/2300030139)
